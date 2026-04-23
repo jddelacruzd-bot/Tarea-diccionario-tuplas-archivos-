@@ -1,0 +1,26 @@
+[
+    {
+        "tarea": "Hacer la tarea de matemáticas",
+        "completada": false
+    },
+    {
+        "tarea": "Estudiar para el examen",
+        "completada": false
+    },
+    {
+        "tarea": "Lavar los platos",
+        "completada": false
+    },
+    {
+        "tarea": "Hacer ejercicio",
+        "completada": false
+    },
+    {
+        "tarea": "Leer un libro",
+        "completada": false
+    },
+    {
+        "tarea": "2",
+        "completada": false
+    }
+]
